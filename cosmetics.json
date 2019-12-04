@@ -1,10 +1,11 @@
 {
-  "4d764811-8142-42ef-b6f8-5452bb3676a1": {
-    "cape": "MADAKAI",
-    
-    "cosmetics": [
-      "WING",
-      "HALO"
-    ]
-  }
+   "playerData":{
+      "4d764811-8142-42ef-b6f8-5452bb3676a1":{
+         "cape":"MADAKAI",
+         "cosmetics":[
+            "WING",
+            "HALO"
+         ]
+      }
+   }
 }
