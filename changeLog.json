@@ -1,3 +1,35 @@
 {
-   "version": "2.0.3"
+   "changeLog":[
+      "(§a+§r) Add | (§c-§r) Remove | (§e*§r) BugFix",
+      "",
+      "    #2.4.1",
+      "* Player invisible Challenge",
+      "",
+      "    #2.4.0",
+      "+ L Chat Filter (Gui->Chat)",
+      "+ CwBw Ingame Overlay (Gui->CwBw)",
+      "+ Jump to GommeCWBW Matches",
+      "+ Player invisible Challenge ",
+      "* Update MadaClient Logo",
+      "",
+      "    #2.3.2",
+      "* Item Changer Mod",
+      "",
+      "    #2.3.1",
+      "+ Discord Status",
+      "+ Skin Mod (Render)",
+      "",
+      "    #2.2.0",
+      "+ Held Item Mod (Player)",
+      "+ Item Changer Challenge",
+      "- Remove Radio Channels",
+      "* Radio Mod Name",
+      "* Mods ScreenPositon",
+      "",
+      "    #2.1.0",
+      "+ Hitbox Mod",
+      "+ Change Log",
+      "+ Social Media Buttons",
+      "+ NameTags"
+   ]
 }
